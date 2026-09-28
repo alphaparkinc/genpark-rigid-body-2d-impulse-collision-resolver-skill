@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-rigid-body-2d-impulse-collision-resolver-skill"
+version = "1.0.0"
+description = "2D Rigid body dynamics engine with Separating Axis Theorem (SAT) collision detection and contact impulse resolution"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
