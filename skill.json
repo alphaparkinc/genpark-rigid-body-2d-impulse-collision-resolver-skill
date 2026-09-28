@@ -1,0 +1,20 @@
+{
+  "name": "genpark-rigid-body-2d-impulse-collision-resolver-skill",
+  "version": "1.0.0",
+  "description": "2D Rigid body dynamics engine with Separating Axis Theorem (SAT) collision detection and contact impulse resolution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "rigid-body",
+    "sat-collision",
+    "impulse-resolution",
+    "physics-engine",
+    "separating-axis-theorem",
+    "computational-geometry",
+    "python-standard-library",
+    "agent-skills",
+    "contact-dynamics",
+    "polygon-collision"
+  ]
+}
